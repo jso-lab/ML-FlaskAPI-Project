@@ -1,0 +1,5 @@
+Flask
+FastAPI
+Uvicorn
+Scikit-learn
+joblib
